@@ -1,0 +1,58 @@
+# ==========================================================
+# renxingmie-mcserver - 幸运方块服务端发布归档仓库
+# 作者：任性咩  |  仓库用途：服务端 ZIP 发布索引
+# ==========================================================
+
+# ---------- 1. 服务端打包文件（全部走 Release 附件，不入 git 历史）----------
+*.zip
+中秋幸运方块服务端*.zip
+夏日清凉幸运方块服务端*.zip
+幸运方块服务端*.zip
+我的世界幸运空岛竞技服务端*.zip
+我的世界樱之城幸运方块服务端*.zip
+脚下随机生成幸运方块服务端*.zip
+
+# ---------- 2. 解压后的服务端目录（如本地解包预览，不入库）----------
+Foot/
+output/
+extracted/
+
+# ---------- 3. 运行时产物（如本地启动测试）----------
+logs/
+*.log
+*.log.gz
+world/
+usercache.json
+usernamecache.json
+session.lock
+level.dat_old
+
+# ---------- 4. 模组二进制（不应入库）----------
+mods/*.jar
+mods/*.jar.disabled
+libraries/**/*.jar
+addons/**/*.zip
+
+# ---------- 5. 备份与临时文件 ----------
+*.bak
+*.tmp
+*.old
+
+# ---------- 6. 系统与编辑器 ----------
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.iml
+*.swp
+*~
+
+# ---------- 7. ServerPackCreator 临时产物 ----------
+serverpackcreator.conf
+serverpackcreator.db
+serverpackcreator.tmp
+
+# ---------- 8. 其他 ----------
+.cache/
+node_modules/
