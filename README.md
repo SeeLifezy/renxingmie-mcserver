@@ -26,19 +26,11 @@
 
 ## 下载方式
 
-### 方式一：Releases 页面（推荐）
+### Releases 页面（推荐）
 
 1. 前往 [Releases](../../releases) 页面
 2. 选择对应服务端的 Release
 3. 下载附件中的 ZIP 文件
-
-### 方式二：克隆仓库后手动获取 ZIP
-
-```bash
-git clone https://github.com/你的用户名/renxingmie-mcserver.git
-cd renxingmie-mcserver
-# ZIP 文件不在 git 中，请仍前往 Releases 页面下载
-```
 
 ## 启动说明
 
