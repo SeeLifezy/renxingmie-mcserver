@@ -96,7 +96,6 @@ java -Xmx4G -Xms4G @libraries/net/minecraftforge/forge/1.20.1-47.3.3/win_args.tx
 
 ## 致谢
 
-- B站 UP 主 **CQz** 制作的幸运方块服务器端
 - 任性群友 **SeeLife** 出品，仅供娱乐
 - 服务端由 [ServerPackCreator](https://github.com/Griefed/ServerPackCreator) 打包生成
 
