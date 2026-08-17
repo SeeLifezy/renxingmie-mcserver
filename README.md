@@ -11,7 +11,18 @@
 本仓库收录任性咩制作的全部幸运方块系列服务端整合包。所有服务端完全免费，仅供学习与娱乐。
 
 > **重要**：本仓库 git 历史中 **不含 ZIP 文件**（避免仓库体积膨胀）。
-> 请通过 [Releases](../../releases) 页面下载对应版本的完整服务端 ZIP 包。
+> 完整服务端 ZIP 包请通过 **GitHub Releases** 下载：
+> <https://github.com/SeeLifezy/renxingmie-mcserver/releases>
+
+## 文档与下载导航
+
+| 内容 | 访问地址 |
+|------|---------|
+| 服务端 ZIP 下载（GitHub Releases） | <https://github.com/SeeLifezy/renxingmie-mcserver/releases> |
+| 完整文档（GitHub Wiki） | <https://github.com/SeeLifezy/renxingmie-mcserver/wiki> |
+| 文档镜像（本仓库 `wiki/` 目录，Gitee 可直接浏览） | [`wiki/`](wiki) |
+
+> Gitee 不提供 Wiki 与 Release 功能，请通过上表链接访问。仓库内 [`wiki/`](wiki) 目录存放 Wiki 源文件，Gitee 会自动渲染 Markdown，可直接点击浏览。
 
 ## 服务端列表
 
