@@ -1,0 +1,50 @@
+/* 幸运方块服务端合集 - 落地页样式 */
+.landing-hero {
+  background: linear-gradient(135deg, #f97316 0%, #ef4444 100%);
+  color: #fff;
+  border-radius: 12px;
+  padding: 40px 32px;
+  margin: 0 0 20px;
+  text-align: center;
+}
+.landing-hero h1 { margin: 0 0 10px; font-size: 2.1em; color: #fff; }
+.landing-sub { margin: 0 0 22px; font-size: 1.15em; opacity: 0.95; }
+.landing-links { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+.btn {
+  display: inline-block; padding: 10px 24px; border-radius: 8px;
+  text-decoration: none; font-weight: 600;
+}
+.btn-primary { background: #fff; color: #ef4444; }
+.btn-primary:hover { background: #ffe4d6; }
+.btn-ghost { border: 1px solid #fff; color: #fff; background: transparent; }
+.btn-ghost:hover { background: rgba(255,255,255,0.15); }
+.btn-ghost.small { border-color: #ef4444; color: #ef4444; font-size: 0.9em; padding: 6px 14px; }
+.btn-ghost.small:hover { background: #fef0e7; }
+
+.landing-meta {
+  display: flex; gap: 18px; flex-wrap: wrap; justify-content: center;
+  background: #fff7ed; border: 1px solid #fed7aa; color: #7c2d12;
+  padding: 12px 20px; border-radius: 10px; margin-bottom: 28px; font-size: 0.95em;
+}
+
+.server-grid {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 16px; margin: 16px 0 8px;
+}
+.server-card {
+  border: 1px solid #e5e7eb; border-radius: 12px; padding: 18px;
+  background: #fff; box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+}
+.card-head { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; }
+.card-head h3 { margin: 0; font-size: 1.12em; }
+.tag {
+  background: #ef4444; color: #fff; font-size: 0.75em;
+  padding: 2px 8px; border-radius: 20px; font-weight: 600; white-space: nowrap;
+}
+.server-card p { margin: 0 0 10px; color: #4b5563; font-size: 0.95em; min-height: 40px; }
+.ver { display: block; margin-bottom: 10px; color: #9a3412; font-weight: 600; font-size: 0.9em; }
+
+/* 响应式 */
+@media (max-width: 640px) {
+  .landing-meta { flex-direction: column; align-items: center; text-align: center; }
+}

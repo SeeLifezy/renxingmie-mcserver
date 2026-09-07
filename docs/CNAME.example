@@ -1,0 +1,11 @@
+# 自定义域名文件
+#
+# GitHub Pages 从 docs/ 目录发布时，应在 docs/ 下创建名为 "CNAME" 的文件（无扩展名），
+# 内容写上你的自定义域名。示例：
+#
+#     www.example.com
+#
+# 在启用自定义域名前，本文件为占位示例，不参与站点发布（已在 _config.yml 中排除）。
+# 如不使用自定义域名，请忽略本文件，站点将使用默认地址：
+#     https://SeeLifezy.github.io/renxingmie-mcserver/
+#

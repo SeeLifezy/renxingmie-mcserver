@@ -18,6 +18,7 @@
 
 | 内容 | 访问地址 |
 |------|---------|
+| 官方网站（GitHub Pages 落地页） | <https://SeeLifezy.github.io/renxingmie-mcserver/> |
 | 服务端 ZIP 下载（GitHub Releases） | <https://github.com/SeeLifezy/renxingmie-mcserver/releases> |
 | 完整文档（GitHub Wiki） | <https://github.com/SeeLifezy/renxingmie-mcserver/wiki> |
 | 文档镜像（本仓库 `wiki/` 目录，Gitee 可直接浏览） | [`wiki/`](wiki) |

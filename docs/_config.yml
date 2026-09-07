@@ -1,0 +1,26 @@
+# GitHub Pages 站点配置
+# 从 docs/ 目录发布：仓库设置 → Pages → Source: Deploy from a branch, main, /docs
+
+theme: jekyll-theme-cayman
+
+# 站点元信息
+title: 任性咩 · 幸运方块服务端合集
+description: 我的世界幸运方块服务端整合包 —— 免费、可随意修改，仅供学习与娱乐
+
+# 让页面使用漂亮 URL（xxx → xxx/），保证 wiki 内裸文件名链接可用
+permalink: pretty
+
+# 语言与编码
+lang: zh-CN
+encoding: UTF-8
+
+# markdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# 不发布源 wiki 部署说明
+exclude:
+  - README.md
+  - _PAGES_DEPLOY.md
+  - CNAME.example
