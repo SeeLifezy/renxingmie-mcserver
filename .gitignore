@@ -27,6 +27,7 @@ wiki-repo/
 Foot/
 output/
 extracted/
+luck/
 
 # ---------- 3. 运行时产物（如本地启动测试）----------
 logs/

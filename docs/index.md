@@ -65,7 +65,7 @@ title: 任性咩 · 幸运方块服务端合集
 <div class="server-card">
   <div class="card-head"><span class="tag">1.16.5</span><h3>幸运方块（基础版）</h3></div>
   <p>最基础的幸运方块服务端，适合低配开服。</p>
-  <span class="ver">最新 v1.0</span>
+  <span class="ver">最新 v1.2</span>
   <a class="btn-ghost small" href="服务端列表">详情</a>
 </div>
 

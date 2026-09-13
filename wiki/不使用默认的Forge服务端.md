@@ -1,4 +1,4 @@
-# 自建 Forge 服务端
+# 不使用默认的 Forge 服务端
 
 本页说明：**不使用整合包自带的默认 Forge 服务端**，改用你自己安装的 Forge 来运行本整合包该怎么做。
 
@@ -7,6 +7,7 @@
 - 想升级到更新的 Forge 小版本（如 47.3.3 → 47.4.x）
 - 使用服务器托管面板，面板只支持自己安装的 Forge
 - 已有一套自己的 Forge 服务端环境，想把整合包内容迁移过去
+- 想使用混合服务端(MOD+插件)例如：[mohist](https://link.zhihu.com/?target=https%3A//url.zeruns.tech/kcmZ6)
 
 ---
 
@@ -27,7 +28,7 @@ Forge 版本与 Minecraft 版本严格对应，**不能混用**。各服务端�
 
 ---
 
-## 步骤一：下载并安装 Forge 服务端
+## 步骤一：下载并安装 Forge 服务端或其它服务端
 
 1. 前往 Forge 官方下载站：<https://files.minecraftforge.net/net/minecraftforge/forge/>
 2. 选择对应 MC 版本（如 `1.20.1`），下载 **Installer**（安装器 jar）
