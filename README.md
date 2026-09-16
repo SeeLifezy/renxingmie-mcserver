@@ -21,9 +21,7 @@
 | 官方网站（GitHub Pages 落地页） | <https://SeeLifezy.github.io/renxingmie-mcserver/> |
 | 服务端 ZIP 下载（GitHub Releases） | <https://github.com/SeeLifezy/renxingmie-mcserver/releases> |
 | 完整文档（GitHub Wiki） | <https://github.com/SeeLifezy/renxingmie-mcserver/wiki> |
-| 文档镜像（本仓库 `wiki/` 目录，Gitee 可直接浏览） | [`wiki/`](wiki) |
 
-> Gitee 不提供 Wiki 与 Release 功能，请通过上表链接访问。仓库内 [`wiki/`](wiki) 目录存放 Wiki 源文件，Gitee 会自动渲染 Markdown，可直接点击浏览。
 
 ## 服务端列表
 
