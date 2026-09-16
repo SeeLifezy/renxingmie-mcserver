@@ -81,13 +81,6 @@ java -Xmx4G -Xms4G @libraries/net/minecraftforge/forge/1.20.1-47.3.3/win_args.tx
 - [脚下随机生成幸运方块 - 专属指令](https://github.com/SeeLifezy/renxingmie-mcserver/wiki/脚下随机生成幸运方块)
 - [指令参考（通用）](https://github.com/SeeLifezy/renxingmie-mcserver/wiki/指令参考)
 
-### 集成内容
-
-- **幸运方块系列**：lucky-block、ChanceCubes、path_lucky_block、randomly_generate_lucky_blocks、Re-Avaritia 等
-- **扩展包**：AmongUs、Car、Desert、Fire、Jello、Summer、Water、Pink、Magical 等十余种 Lucky Block addon
-- **优化模组**：ferritecore、modernfix、starlight、embeddium、entityculling、memoryleakfix
-- **工具模组**：worldedit、WorldEditCUI、litematica、Jade、JEI、Xaero's Minimap/WorldMap
-- **枪械系统**：tacz、tp_shooting
 
 ## 版本历史
 
